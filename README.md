@@ -1,3 +1,4 @@
+# [https://otaparser.spitkov.hu](https://otaparser.spitkov.hu)
 # OTA Parser
 
 A simple, elegant dark mode app for parsing OTA (Over-The-Air) update JSON files. Built with SvelteKit and Tailwind CSS v4.
